@@ -1,0 +1,16 @@
+.activ{
+    background-color: #ffffff;
+    color: #9538E2;
+    padding: 8px;
+    border: 2px solid white;
+    border-radius: 16px;
+    font-weight: 600;
+}
+.non-activ{
+    background-color: #9538E2;
+    border-radius: 16px;
+    padding: 8px;
+    border: 2px solid white;
+    color: white;
+    font-weight: 600;
+}

@@ -4,6 +4,7 @@ import Heading from './Heading';
 import { TiShoppingCart } from "react-icons/ti";
 import { FaRegHeart } from "react-icons/fa";
 import { addFavorites, getAllFavorites } from '../Utils';
+import { addWish } from '../Utils/wish';
 
 const Details = () => {
     const data = useLoaderData()
@@ -28,6 +29,10 @@ const Details = () => {
         setIsDisable(true)
     }
 
+    const HandleWish = (gadgets) =>{
+        addWish(gadgets)
+    }
+
     return (
         <div className='mb-80 '>
             <Heading title='Product Details' subtitle='Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!'></Heading>
@@ -48,7 +53,7 @@ const Details = () => {
 
                     <div className='flex gap-4 items-center'>
                         <button onClick={() => HandleCart(gadgets)} disabled={isDisable} className='flex items-center gap-2 bg-[#9538E2] p-2 rounded-md mt-3 text-white'>Add to Cart <TiShoppingCart disabled={isDisable} className='text-2xl' /></button>
-                        <button className='text-2xl text-[#9538E2] mt-3 p-2 rounded-full border-[#9538E2] border'><FaRegHeart /></button>
+                        <button onClick={() => HandleWish(gadgets)} className='text-2xl text-[#9538E2] mt-3 p-2 rounded-full border-[#9538E2] border'><FaRegHeart /></button>
                     </div>
 
 
