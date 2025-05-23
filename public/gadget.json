@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "name": "Redmi Note 8",
+    "image": "https://i.ibb.co/n8jRqYJQ/note-8.jpg",
+    "category": "Smartphones",
+    "price": 20000,
+    "specification": {
+      "display": "6.7-inch LTPO OLED, 120Hz",
+      "processor": "Google Tensor G3",
+      "ram": "12GB",
+      "storage": "128GB"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.7,
+    "popularity": 88
+  },
+  {
+    "id": 2,
+    "name": "Poco x3",
+    "image": "https://i.ibb.co/9kz3WVcZ/vivo.jpg",
+    "category": "Smartphones",
+    "price": 25000,
+    "specification": {
+      "display": "6.82-inch AMOLED, 120Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "storage": "512GB"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.6,
+    "popularity": 88
+  },
+  {
+    "id": 3,
+    "name": "Samsung S25 Ultra",
+    "image": "https://i.ibb.co/yFnN2y62/samsung.webp",
+    "category": "Smartphones",
+    "price": 180000,
+    "specification": {
+      "display": "6.8-inch QHD+ AMOLED, 120Hz",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 4,
+    "name": "Dell",
+    "image": "https://i.ibb.co/mrhzyN1L/dell.jpg",
+    "category": "Laptop",
+    "price": 180000,
+    "specification": {
+      "display": "16.2-inch Liquid Retina XDR",
+      "processor": "Apple M3 Max",
+      "ram": "64GB",
+      "storage": "1TB SSD"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.9,
+    "popularity": 88
+  },
+  {
+    "id": 5,
+    "name": "Asus",
+    "image": "https://i.ibb.co/4ZBPGGFr/asus.jpg",
+    "category": "Laptop",
+    "price": 1240000,
+    "specification": {
+      "display": "14-inch QHD+ 165Hz",
+      "processor": "AMD Ryzen 9 7940HS",
+      "ram": "32GB DDR5",
+      "storage": "1TB SSD",
+      "graphics": "NVIDIA RTX 4070"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 6,
+    "name": "Hp",
+    "image": "https://i.ibb.co/Nh5shYr/hp.webp",
+    "category": "Laptop",
+    "price": 244000,
+    "specification": {
+      "display": "13.5-inch OLED 3K2K Touch",
+      "processor": "Intel Core i7-1355U",
+      "ram": "16GB LPDDR5",
+      "storage": "1TB SSD"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 5.0,
+    "popularity": 88
+  },
+  {
+    "id": 7,
+    "name": "Back Cover",
+    "image": "https://i.ibb.co/HfG7CPrH/backpart3.webp",
+    "category": "Accessories",
+    "price": 24000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 8,
+    "name": "Headphone",
+    "image": "https://i.ibb.co/RpSLV38K/headphone.jpg",
+    "category": "Accessories",
+    "price": 4000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.6,
+    "popularity": 88
+  },
+  {
+    "id": 9,
+    "name": "Android Charger",
+    "image": "https://i.ibb.co/jv4cBHx6/charger.webp",
+    "category": "Accessories",
+    "price": 54000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.8,
+    "popularity": 88
+  },
+  {
+    "id": 10,
+    "name": "Chrono 24",
+    "image": "https://i.ibb.co/Jw7VGnVW/chrono.webp",
+    "category": "Watch",
+    "price": 8000,
+    "specification": {
+      "display": "1.92-inch Retina LTPO OLED",
+      "chip": "S9 SiP",
+      "storage": "64GB",
+      "battery_life": "36 hours"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.4,
+    "popularity": 88
+  },
+  {
+    "id": 11,
+    "name": "Montredo",
+    "image": "https://i.ibb.co/BVbNGnVc/montredo.jpg",
+    "category": "Watch",
+    "price": 17000,
+    "specification": {
+      "display": "1.5-inch Super AMOLED",
+      "chip": "Exynos W930",
+      "storage": "16GB",
+      "battery_life": "30 hours"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 12,
+    "name": "Seiko",
+    "image": "https://i.ibb.co/gZFSkq68/seiko.jpg",
+    "category": "Watch",
+    "price": 12000,
+    "specification": {
+      "display": "1.3-inch MIP transflective",
+      "battery_life": "18 days (smartwatch mode)",
+      "connectivity": [
+        "Bluetooth",
+        "Wi-Fi",
+        "ANT+"
+      ]
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.1,
+    "popularity": 88
+  },
+  {
+    "id": 13,
+    "name": "MacBook Air M2",
+    "image": "https://i.ibb.co/vCM3qtQd/macbook1.webp",
+    "category": "Macbook",
+    "price": 312000,
+    "specification": {
+      "display": "15.3-inch Liquid Retina",
+      "processor": "Apple M2",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 5.0,
+    "popularity": 88
+  },
+  {
+    "id": 14,
+    "name": "MacBook Pro 14-inch M3",
+    "image": "https://i.ibb.co/d0QKH0J7/macbook2.webp",
+    "category": "Macbook",
+    "price": 212000,
+    "specification": {
+      "display": "15.3-inch Liquid Retina",
+      "processor": "Apple M2",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 5.0,
+    "popularity": 88
+  },
+  {
+    "id": 15,
+    "name": "MacBook Pro 16-inch M3 Max",
+    "image": "https://i.ibb.co/hF8Ttf9Y/macbook3.jpg",
+    "category": "Macbook",
+    "price": 122000,
+    "specification": {
+      "display": "15.3-inch Liquid Retina",
+      "processor": "Apple M2",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.9,
+    "popularity": 88
+  },
+  {
+    "id": 16,
+    "name": "Iphone 12pro",
+    "image": "https://i.ibb.co/s97yPxFb/aple-12pro.jpg",
+    "category": "Iphone",
+    "price": 47000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.5,
+    "popularity": 88
+  },
+  {
+    "id": 17,
+    "name": "Iphone 14",
+    "image": "https://i.ibb.co/Wv9NVq3q/i-Phone-14.webp",
+    "category": "Iphone",
+    "price": 55000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.4,
+    "popularity": 88
+  },
+  {
+    "id": 18,
+    "name": "Iphone 14pro Max",
+    "image": "https://i.ibb.co/HLqHQ4z9/iphone-14-pro-max.jpg",
+    "category": "Iphone",
+    "price": 89000,
+    "nutrition_info": {
+      "calories": 2,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0
+    },
+    "origin": "Italy",
+    "type": "Strong",
+    "description": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans.",
+    "making_process": "Grind coffee beans finely. Pack the grounds into the portafilter and tamp down evenly. Lock the portafilter in the espresso machine and start brewing. Serve immediately in a small cup.",
+    "rating": 4.3,
+    "popularity": 88
+  }
+]
